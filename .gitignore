@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow directories so Git can search inside them
+!*/
+
+# Allow C++ source and header files
+!*.cpp
+!*.h
+
+# Allow repo documentation
+!README.md
+!LICENSE
+
+# Keep this file
+!.gitignore
